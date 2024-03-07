@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Satish</h1>
 <h3 align="center">Unleashing the Power of Data: Embarking on a Journey as a Passionate Data Analyst from India</h3>
+<br>
+<img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</img>
+ 👯 I’m looking to collaborate on **I'm looking to collaborate on projects related to data analysis and statistical modeling within a dynamic and innovative company environment.**
 
-- 👯 I’m looking to collaborate on ** projects related to data analysis and statistical modeling within a dynamic and innovative company environment.**
+ 💬 Ask me about **Data analyst , SQL , Power BI , Data cleaning , Visualization**
 
-- 💬 Ask me about **Data analyst , SQL , Power BI , Data cleaning , Visualization**
-
-- 📫 How to reach me **Satishmagar06@gmail.com**
+ 📫 How to reach me **Satishmagar06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
