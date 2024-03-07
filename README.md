@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satish</h1>
-<h3 align="center">Unleashing the Power of Data: Embarking on a Journey as a Passionate Data Analyst from India</h3>
+<h3 align="center">Unleashing the Power of Data: Passionate Data Analyst from India</h3>
 <br>
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</img>
  👯 I’m looking to collaborate on **I'm looking to collaborate on projects related to data analysis and statistical modeling within a dynamic and innovative company environment.**
