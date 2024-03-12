@@ -1,4 +1,4 @@
-![logo](https://github.com/satish00781/satish00781/blob/main/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
+![logo](https://github.com/Satishmagar/Satishmagar01/blob/main/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Satish</h1>
 <h3 align="center">Unleashing the Power of Data: Passionate Data Analyst from India</h3>
 <br>
